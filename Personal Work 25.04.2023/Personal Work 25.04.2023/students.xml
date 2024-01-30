@@ -1,0 +1,38 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Students>
+	<Student>
+		<StudentId>1</StudentId>
+		<Surname>Protskiv</Surname>
+		<Name>Nazarii</Name>
+		<Group>pmi21</Group>
+	</Student>
+
+	<Student>
+		<StudentId>2</StudentId>
+		<Surname>Masnyk</Surname>
+		<Name>Nastia</Name>
+		<Group>pmi21</Group>
+	</Student>
+
+	<Student>
+		<StudentId>3</StudentId>
+		<Surname>Zhenchenko</Surname>
+		<Name>Oleksandr</Name>
+		<Group>pmi21</Group>
+	</Student>
+
+	<Student>
+		<StudentId>4</StudentId>
+		<Surname>Tutko</Surname>
+		<Name>Volodymyr</Name>
+		<Group>pmi21</Group>
+	</Student>
+
+	<Student>
+		<StudentId>5</StudentId>
+		<Surname>Padalka</Surname>
+		<Name>Mariia</Name>
+		<Group>pmi22</Group>
+	</Student>
+
+</Students>

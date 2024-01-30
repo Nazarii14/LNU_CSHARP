@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <TaskD Login="vlogin1">
+    <Language>
+      <LanguageName>{ Language = C# }</LanguageName>
+      <Percentage>0,00%</Percentage>
+    </Language>
+  </TaskD>
+  <TaskD Login="vlogin2">
+    <Language>
+      <LanguageName>{ Language = Java }</LanguageName>
+      <Percentage>50,00%</Percentage>
+    </Language>
+  </TaskD>
+  <TaskD Login="vlogin3">
+    <Language>
+      <LanguageName>{ Language = Java }</LanguageName>
+      <Percentage>0,00%</Percentage>
+    </Language>
+  </TaskD>
+  <TaskD Login="vlogin4">
+    <Language>
+      <LanguageName>{ Language = Python }</LanguageName>
+      <Percentage>100,00%</Percentage>
+    </Language>
+  </TaskD>
+</TaskD>

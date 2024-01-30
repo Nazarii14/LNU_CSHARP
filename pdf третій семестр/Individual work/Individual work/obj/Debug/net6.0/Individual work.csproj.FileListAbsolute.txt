@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\bin\Debug\net6.0\Individual work.exe
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\bin\Debug\net6.0\Individual work.deps.json
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\bin\Debug\net6.0\Individual work.runtimeconfig.json
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\bin\Debug\net6.0\Individual work.dll
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\bin\Debug\net6.0\Individual work.pdb
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.AssemblyInfo.cs
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.dll
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\refint\Individual work.dll
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.pdb
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\Individual work.genruntimeconfig.cache
+D:\Programming\C#\Univer\pdf третій семестр\Individual work\Individual work\obj\Debug\net6.0\ref\Individual work.dll

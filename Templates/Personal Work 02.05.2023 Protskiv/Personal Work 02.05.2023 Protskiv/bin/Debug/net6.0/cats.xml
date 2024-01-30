@@ -1,0 +1,23 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Categories>
+	<Category>
+		<CatId>123456</CatId>
+		<Name>CatName1</Name>
+		<Warranty>12</Warranty>
+	</Category>
+	<Category>
+		<CatId>456456</CatId>
+		<Name>CatName2</Name>
+		<Warranty>12</Warranty>
+	</Category>
+	<Category>
+		<CatId>456456</CatId>
+		<Name>CatName3</Name>
+		<Warranty>12</Warranty>
+	</Category>
+	<Category>
+		<CatId>123456</CatId>
+		<Name>CatName4</Name>
+		<Warranty>12</Warranty>
+	</Category>
+</Categories>

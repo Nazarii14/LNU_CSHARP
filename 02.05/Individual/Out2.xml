@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+  <Category ID="123456">
+    <Operation Name="OperName2" Amount="2000" />
+    <Operation Name="OperName1" Amount="100" />
+  </Category>
+  <Category ID="456985">
+    <Operation Name="OperName2" Amount="1000" />
+    <Operation Name="OperName1" Amount="100" />
+  </Category>
+  <Category ID="555555">
+    <Operation Name="OperName2" Amount="1000" />
+    <Operation Name="OperName1" Amount="100" />
+  </Category>
+</Categories>

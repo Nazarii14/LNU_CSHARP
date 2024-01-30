@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\bin\Debug\net6.0\Pattren Observer 02.05.2023.exe
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\bin\Debug\net6.0\Pattren Observer 02.05.2023.deps.json
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\bin\Debug\net6.0\Pattren Observer 02.05.2023.runtimeconfig.json
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\bin\Debug\net6.0\Pattren Observer 02.05.2023.dll
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\bin\Debug\net6.0\Pattren Observer 02.05.2023.pdb
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.AssemblyInfo.cs
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.dll
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\refint\Pattren Observer 02.05.2023.dll
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.pdb
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\Pattren Observer 02.05.2023.genruntimeconfig.cache
+D:\Programming\C#\Univer\Pattren Observer 02.05.2023\Pattren Observer 02.05.2023\obj\Debug\net6.0\ref\Pattren Observer 02.05.2023.dll

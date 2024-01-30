@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pract>
+	<Pr>
+		<PrId>1</PrId>
+		<CarMark>CarMark1</CarMark>
+		<Mark>100</Mark>
+	</Pr>
+	<Pr>
+		<PrId>2</PrId>
+		<CarMark>CarMark2</CarMark>
+		<Mark>90</Mark>
+	</Pr>
+	<Pr>
+		<PrId>3</PrId>
+		<CarMark>CarMark3</CarMark>
+		<Mark>85</Mark>
+	</Pr>
+	<Pr>
+		<PrId>4</PrId>
+		<CarMark>CarMark4</CarMark>
+		<Mark>75</Mark>
+	</Pr>
+	<Pr>
+		<PrId>5</PrId>
+		<CarMark>CarMark5</CarMark>
+		<Mark>57</Mark>
+	</Pr>
+</Pract>

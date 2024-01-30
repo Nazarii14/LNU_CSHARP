@@ -1,0 +1,8 @@
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\bin\Debug\Task_2.exe.config
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\bin\Debug\Task_2.exe
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\bin\Debug\Task_2.pdb
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\obj\Debug\Task_2.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\obj\Debug\Task_2.exe
+D:\Programming\C#\Univer\Таска Ярема ВП\Task_2\obj\Debug\Task_2.pdb

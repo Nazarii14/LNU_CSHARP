@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Checks>
+	<Check>
+		<BookId>3</BookId>
+		<ZhanrId>3</ZhanrId>
+		<VydavnytstvoId>1</VydavnytstvoId>
+		<Date>2022-08-15</Date>
+	</Check>
+	<Check>
+		<BookId>1</BookId>
+		<ZhanrId>3</ZhanrId>
+		<VydavnytstvoId>1</VydavnytstvoId>
+		<Date>2022-08-02</Date>
+	</Check>
+	<Check>
+		<BookId>2</BookId>
+		<ZhanrId>2</ZhanrId>
+		<VydavnytstvoId>2</VydavnytstvoId>
+		<Date>2022-08-03</Date>
+	</Check>
+	<Check>
+		<BookId>2</BookId>
+		<ZhanrId>2</ZhanrId>
+		<VydavnytstvoId>1</VydavnytstvoId>
+		<Date>2022-08-05</Date>
+	</Check>
+	<Check>
+		<BookId>3</BookId>
+		<ZhanrId>3</ZhanrId>
+		<VydavnytstvoId>2</VydavnytstvoId>
+		<Date>2022-08-07</Date>
+	</Check>
+	<Check>
+		<BookId>4</BookId>
+		<ZhanrId>2</ZhanrId>
+		<VydavnytstvoId>1</VydavnytstvoId>
+		<Date>2022-08-09</Date>
+	</Check>
+</Checks>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <project id="1">
+    <position name="PosadaName2">
+      <hours>17</hours>
+    </position>
+  </project>
+  <project id="2">
+    <position name="PosadaName1">
+      <hours>8</hours>
+    </position>
+    <position name="PosadaName2">
+      <hours>10</hours>
+    </position>
+  </project>
+</TaskC>

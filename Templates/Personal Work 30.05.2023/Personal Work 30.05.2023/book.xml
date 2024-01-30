@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+	<Book>
+		<BookId>1</BookId>
+		<AuthorName>AuthorName1</AuthorName>
+		<AuthorSurname>AuthorSurname1</AuthorSurname>
+		<BookName>BookName1</BookName>
+	</Book>
+	<Book>
+		<BookId>2</BookId>
+		<AuthorName>AuthorName2</AuthorName>
+		<AuthorSurname>AuthorSurname2</AuthorSurname>
+		<BookName>BookName2</BookName>
+	</Book>
+	<Book>
+		<BookId>3</BookId>
+		<AuthorName>AuthorName3</AuthorName>
+		<AuthorSurname>AuthorSurname3</AuthorSurname>
+		<BookName>BookName3</BookName>
+	</Book>
+	<Book>
+		<BookId>4</BookId>
+		<AuthorName>AuthorName4</AuthorName>
+		<AuthorSurname>AuthorSurname4</AuthorSurname>
+		<BookName>BookName4</BookName>
+	</Book>
+</Books>

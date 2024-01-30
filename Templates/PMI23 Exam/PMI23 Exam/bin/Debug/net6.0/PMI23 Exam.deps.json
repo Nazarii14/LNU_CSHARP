@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PMI23 Exam/1.0.0": {
+        "runtime": {
+          "PMI23 Exam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PMI23 Exam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Servers>
+	<Server>
+		<ServerId>AAA</ServerId>
+		<PlatformaId>AA</PlatformaId>
+	</Server>
+	<Server>
+		<ServerId>CCC</ServerId>
+		<PlatformaId>CC</PlatformaId>
+	</Server>
+	<Server>
+		<ServerId>BBB</ServerId>
+		<PlatformaId>BB</PlatformaId>
+	</Server>
+</Servers>

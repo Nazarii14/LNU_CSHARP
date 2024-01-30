@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <Zhanr ZhanrName="Name2">
+    <TotalCount>3</TotalCount>
+  </Zhanr>
+  <Zhanr ZhanrName="Name3">
+    <TotalCount>3</TotalCount>
+  </Zhanr>
+</TaskD>

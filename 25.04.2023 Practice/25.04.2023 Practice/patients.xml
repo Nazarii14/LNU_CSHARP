@@ -1,0 +1,30 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Patients>
+	<Patient>
+		<PatId>1</PatId>
+		<Surname>Protskiv</Surname>
+		<Name>Nazarii</Name>
+		<BirthYear>2003</BirthYear>
+	</Patient>
+	
+	<Patient>
+		<PatId>2</PatId>
+		<Surname>Masnyk</Surname>
+		<Name>Nastia</Name>
+		<BirthYear>2004</BirthYear>
+	</Patient>
+	
+	<Patient>
+		<PatId>3</PatId>
+		<Surname>Zhenchenko</Surname>
+		<Name>Oleksandr</Name>
+		<BirthYear>2003</BirthYear>
+	</Patient>
+
+	<Patient>
+		<PatId>4</PatId>
+		<Surname>Tutko</Surname>
+		<Name>Volodymyr</Name>
+		<BirthYear>2003</BirthYear>
+	</Patient>
+</Patients>

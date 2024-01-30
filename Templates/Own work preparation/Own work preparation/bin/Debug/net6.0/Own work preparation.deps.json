@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Own work preparation/1.0.0": {
+        "runtime": {
+          "Own work preparation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Own work preparation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

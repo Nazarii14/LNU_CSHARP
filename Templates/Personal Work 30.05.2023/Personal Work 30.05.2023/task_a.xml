@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Author AuthorSurname="AuthorSurname1">
+    <Book>
+      <BookName>BookName1</BookName>
+      <VydavnytstvoId>1</VydavnytstvoId>
+    </Book>
+  </Author>
+  <Author AuthorSurname="AuthorSurname2">
+    <Book>
+      <BookName>BookName2</BookName>
+      <VydavnytstvoId>2</VydavnytstvoId>
+    </Book>
+    <Book>
+      <BookName>BookName2</BookName>
+      <VydavnytstvoId>1</VydavnytstvoId>
+    </Book>
+  </Author>
+  <Author AuthorSurname="AuthorSurname3">
+    <Book>
+      <BookName>BookName3</BookName>
+      <VydavnytstvoId>1</VydavnytstvoId>
+    </Book>
+    <Book>
+      <BookName>BookName3</BookName>
+      <VydavnytstvoId>2</VydavnytstvoId>
+    </Book>
+  </Author>
+  <Author AuthorSurname="AuthorSurname4">
+    <Book>
+      <BookName>BookName4</BookName>
+      <VydavnytstvoId>1</VydavnytstvoId>
+    </Book>
+  </Author>
+</TaskA>

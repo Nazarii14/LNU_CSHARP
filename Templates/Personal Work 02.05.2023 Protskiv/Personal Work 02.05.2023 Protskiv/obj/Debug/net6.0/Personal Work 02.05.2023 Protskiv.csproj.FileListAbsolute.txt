@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\bin\Debug\net6.0\Personal Work 02.05.2023 Protskiv.exe
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\bin\Debug\net6.0\Personal Work 02.05.2023 Protskiv.deps.json
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\bin\Debug\net6.0\Personal Work 02.05.2023 Protskiv.runtimeconfig.json
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\bin\Debug\net6.0\Personal Work 02.05.2023 Protskiv.dll
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\bin\Debug\net6.0\Personal Work 02.05.2023 Protskiv.pdb
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.AssemblyInfo.cs
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.dll
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\refint\Personal Work 02.05.2023 Protskiv.dll
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.pdb
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\Personal Work 02.05.2023 Protskiv.genruntimeconfig.cache
+D:\Programming\C#\Univer\Personal Work 02.05.2023 Protskiv\Personal Work 02.05.2023 Protskiv\obj\Debug\net6.0\ref\Personal Work 02.05.2023 Protskiv.dll

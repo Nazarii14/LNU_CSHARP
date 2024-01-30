@@ -1,0 +1,16 @@
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\bin\Debug\Individual.exe.config
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\bin\Debug\Individual.exe
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\bin\Debug\Individual.pdb
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\obj\Debug\Individual.csproj.AssemblyReference.cache
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\obj\Debug\Individual.csproj.SuggestedBindingRedirects.cache
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\obj\Debug\Individual.csproj.CoreCompileInputs.cache
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\obj\Debug\Individual.exe
+C:\LNU\2-й курс\Програмування (C#)\Практики\02.05\Individual\obj\Debug\Individual.pdb
+D:\Programming\C#\Univer\02.05\Individual\bin\Debug\Individual.exe.config
+D:\Programming\C#\Univer\02.05\Individual\bin\Debug\Individual.exe
+D:\Programming\C#\Univer\02.05\Individual\bin\Debug\Individual.pdb
+D:\Programming\C#\Univer\02.05\Individual\obj\Debug\Individual.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\02.05\Individual\obj\Debug\Individual.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Univer\02.05\Individual\obj\Debug\Individual.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\02.05\Individual\obj\Debug\Individual.exe
+D:\Programming\C#\Univer\02.05\Individual\obj\Debug\Individual.pdb

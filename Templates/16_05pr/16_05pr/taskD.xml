@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ranking>
+  <student>
+    <studentTicketNumber>1</studentTicketNumber>
+    <lastName>Masnyk</lastName>
+    <firstName>Anastasiya</firstName>
+    <totalScore>187</totalScore>
+  </student>
+  <student>
+    <studentTicketNumber>2</studentTicketNumber>
+    <lastName>Shevchenko</lastName>
+    <firstName>Taras</firstName>
+    <totalScore>180</totalScore>
+  </student>
+</ranking>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Vydavnytstvo VydavnytstvoName="VydavnytstvoName1">
+    <Authors>
+      <AuthorsName>AuthorName1</AuthorsName>
+    </Authors>
+    <Authors>
+      <AuthorsName>AuthorName1</AuthorsName>
+    </Authors>
+    <Authors>
+      <AuthorsName>AuthorName1</AuthorsName>
+    </Authors>
+    <Authors>
+      <AuthorsName>AuthorName1</AuthorsName>
+    </Authors>
+  </Vydavnytstvo>
+  <Vydavnytstvo VydavnytstvoName="VydavnytstvoName2">
+    <Authors>
+      <AuthorsName>AuthorName1</AuthorsName>
+    </Authors>
+    <Authors>
+      <AuthorsName>AuthorName1</AuthorsName>
+    </Authors>
+  </Vydavnytstvo>
+</TaskC>

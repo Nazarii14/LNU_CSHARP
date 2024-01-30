@@ -1,0 +1,20 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Favors>
+	<Favor>
+		<FavId>1</FavId>
+		<Name>TeethCleaning</Name>
+		<FavPrice>120</FavPrice>
+	</Favor>
+
+	<Favor>
+		<FavId>2</FavId>
+		<Name>ToothExtraction</Name>
+		<FavPrice>250</FavPrice>
+	</Favor>
+
+	<Favor>
+		<FavId>3</FavId>
+		<Name>ToothPolishing</Name>
+		<FavPrice>500</FavPrice>
+	</Favor>
+</Favors>

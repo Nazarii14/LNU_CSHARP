@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.AssemblyInfo.cs
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\bin\Debug\net6.0\Collections Personal Work.exe
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\bin\Debug\net6.0\Collections Personal Work.deps.json
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\bin\Debug\net6.0\Collections Personal Work.runtimeconfig.json
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\bin\Debug\net6.0\Collections Personal Work.dll
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\bin\Debug\net6.0\Collections Personal Work.pdb
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.dll
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\refint\Collections Personal Work.dll
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.pdb
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\Collections Personal Work.genruntimeconfig.cache
+D:\Programming\C#\Univer\Collections Personal Work\Collections Personal Work\obj\Debug\net6.0\ref\Collections Personal Work.dll

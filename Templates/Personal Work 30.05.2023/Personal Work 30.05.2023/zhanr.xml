@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Zhanrs>
+	<Zhanr>
+		<ZhanrId>1</ZhanrId>
+		<ZhanrName>Name1</ZhanrName>
+	</Zhanr>
+	<Zhanr>
+		<ZhanrId>2</ZhanrId>
+		<ZhanrName>Name2</ZhanrName>
+	</Zhanr>
+	<Zhanr>
+		<ZhanrId>3</ZhanrId>
+		<ZhanrName>Name3</ZhanrName>
+	</Zhanr>
+	<Zhanr>
+		<ZhanrId>4</ZhanrId>
+		<ZhanrName>Name4</ZhanrName>
+	</Zhanr>
+</Zhanrs>

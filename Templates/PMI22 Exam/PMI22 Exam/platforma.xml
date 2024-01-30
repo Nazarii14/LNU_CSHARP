@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Plarforms>
+	<Platform>
+		<PlatformaId>AA</PlatformaId>
+		<Name>UA-testing</Name>
+	</Platform>
+	<Platform>
+		<PlatformaId>BB</PlatformaId>
+		<Name>USA-testing</Name>
+	</Platform>
+	<Platform>
+		<PlatformaId>CC</PlatformaId>
+		<Name>UK-testing</Name>
+	</Platform>
+</Plarforms>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Driver>
+    <DriverSurname>DriverSurname%</DriverSurname>
+    <LicenseCat>A</LicenseCat>
+    <StartDate>337</StartDate>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname1</DriverSurname>
+    <LicenseCat>A</LicenseCat>
+    <StartDate>365</StartDate>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname2</DriverSurname>
+    <LicenseCat>B</LicenseCat>
+    <StartDate>28</StartDate>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname3</DriverSurname>
+    <LicenseCat>C</LicenseCat>
+    <StartDate>-365</StartDate>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname4</DriverSurname>
+    <LicenseCat>DC</LicenseCat>
+    <StartDate>337</StartDate>
+  </Driver>
+</TaskA>

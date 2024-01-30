@@ -1,0 +1,27 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Checks>
+	<Recipe>
+		<CatId>123456</CatId>
+		<Date>2022-05-05</Date>
+		<OpDate>2022-10-10</OpDate>
+		<OpId>1456</OpId>
+	</Recipe>
+	<Recipe>
+		<CatId>123456</CatId>
+		<Date>2022-05-05</Date>
+		<OpDate>2022-10-10</OpDate>
+		<OpId>1456</OpId>
+	</Recipe>
+	<Recipe>
+		<CatId>456456</CatId>
+		<Date>2022-07-07</Date>
+		<OpDate>2022-10-10</OpDate>
+		<OpId>2456</OpId>
+	</Recipe>
+	<Recipe>
+		<CatId>456456</CatId>
+		<Date>2022-07-07</Date>
+		<OpDate>2022-11-11</OpDate>
+		<OpId>2456</OpId>
+	</Recipe>
+</Checks>

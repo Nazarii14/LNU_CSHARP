@@ -1,0 +1,18 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Posadas>
+	<Posada>
+		<PosadaId>1</PosadaId>
+		<Name>PosadaName1</Name>
+		<Price>15</Price>
+	</Posada>
+	<Posada>
+		<PosadaId>2</PosadaId>
+		<Name>PosadaName2</Name>
+		<Price>12</Price>
+	</Posada>
+	<Posada>
+		<PosadaId>3</PosadaId>
+		<Name>PosadaName3</Name>
+		<Price>10</Price>
+	</Posada>
+</Posadas>

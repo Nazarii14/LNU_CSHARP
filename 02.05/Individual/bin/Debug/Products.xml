@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+	<Product>
+		<CategoryID>123456</CategoryID>
+		<ProductName>Name1</ProductName>
+		<Garant>12</Garant>
+	</Product>
+	<Product>
+		<CategoryID>456985</CategoryID>
+		<ProductName>Name2</ProductName>
+		<Garant>8</Garant>
+	</Product>
+	<Product>
+		<CategoryID>555555</CategoryID>
+		<ProductName>Name3</ProductName>
+		<Garant>24</Garant>
+	</Product>
+</Products>

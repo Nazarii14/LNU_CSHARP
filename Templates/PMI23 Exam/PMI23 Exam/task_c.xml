@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Category Category="A">
+    <Person>
+      <Surname>DriverSurname%</Surname>
+      <PosvId>5</PosvId>
+      <LicenseDate>2023-02-03T00:00:00</LicenseDate>
+    </Person>
+  </Category>
+  <Category Category="A">
+    <Person>
+      <Surname>DriverSurname1</Surname>
+      <PosvId>1</PosvId>
+      <LicenseDate>2023-02-02T00:00:00</LicenseDate>
+    </Person>
+  </Category>
+  <Category Category="B">
+    <Person>
+      <Surname>DriverSurname2</Surname>
+      <PosvId>2</PosvId>
+      <LicenseDate>2023-03-02T00:00:00</LicenseDate>
+    </Person>
+  </Category>
+  <Category Category="C">
+    <Person>
+      <Surname>DriverSurname3</Surname>
+      <PosvId>3</PosvId>
+      <LicenseDate>2022-03-02T00:00:00</LicenseDate>
+    </Person>
+  </Category>
+  <Category Category="DC">
+    <Person>
+      <Surname>DriverSurname4</Surname>
+      <PosvId>4</PosvId>
+      <LicenseDate>2023-02-03T00:00:00</LicenseDate>
+    </Person>
+  </Category>
+</TaskC>

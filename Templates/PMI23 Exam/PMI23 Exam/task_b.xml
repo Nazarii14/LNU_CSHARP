@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Driver>
+    <DriverSurname>DriverSurname%</DriverSurname>
+    <LicenseCat>A</LicenseCat>
+    <StartDate>2022-03-03T00:00:00</StartDate>
+    <EndDate>2023-02-03T00:00:00</EndDate>
+    <TotalMark>82</TotalMark>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname1</DriverSurname>
+    <LicenseCat>A</LicenseCat>
+    <StartDate>2022-02-02T00:00:00</StartDate>
+    <EndDate>2023-02-02T00:00:00</EndDate>
+    <TotalMark>110</TotalMark>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname2</DriverSurname>
+    <LicenseCat>B</LicenseCat>
+    <StartDate>2023-02-02T00:00:00</StartDate>
+    <EndDate>2023-03-02T00:00:00</EndDate>
+    <TotalMark>105</TotalMark>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname3</DriverSurname>
+    <LicenseCat>C</LicenseCat>
+    <StartDate>2023-03-02T00:00:00</StartDate>
+    <EndDate>2022-03-02T00:00:00</EndDate>
+    <TotalMark>100</TotalMark>
+  </Driver>
+  <Driver>
+    <DriverSurname>DriverSurname4</DriverSurname>
+    <LicenseCat>DC</LicenseCat>
+    <StartDate>2022-03-03T00:00:00</StartDate>
+    <EndDate>2023-02-03T00:00:00</EndDate>
+    <TotalMark>95</TotalMark>
+  </Driver>
+</TaskB>

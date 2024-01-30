@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<teachers>
+	<teacher>
+		<identificationNumber>10</identificationNumber>
+		<lastName>LastName1</lastName>
+		<firstName>FirstName1</firstName>
+	</teacher>
+	<teacher>
+		<identificationNumber>11</identificationNumber>
+		<lastName>LastName2</lastName>
+		<firstName>FirstName2</firstName>
+	</teacher>
+	<teacher>
+		<identificationNumber>13</identificationNumber>
+		<lastName>LastName3</lastName>
+		<firstName>FirstName3</firstName>
+	</teacher>
+</teachers>

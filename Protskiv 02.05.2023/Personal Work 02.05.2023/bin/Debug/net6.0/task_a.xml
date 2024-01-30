@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CategoryOperations>
+  <Category ID="123456">
+    <Operation Name="OperName1" Count="2" />
+    <Operation Name="OperName2" Count="2" />
+  </Category>
+  <Category ID="456985">
+    <Operation Name="OperName1" Count="1" />
+    <Operation Name="OperName2" Count="1" />
+  </Category>
+  <Category ID="555555">
+    <Operation Name="OperName1" Count="1" />
+    <Operation Name="OperName2" Count="1" />
+  </Category>
+</CategoryOperations>

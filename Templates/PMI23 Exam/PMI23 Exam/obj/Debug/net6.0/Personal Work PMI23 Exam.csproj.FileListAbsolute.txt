@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\bin\Debug\net6.0\Personal Work PMI23 Exam.exe
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\bin\Debug\net6.0\Personal Work PMI23 Exam.deps.json
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\bin\Debug\net6.0\Personal Work PMI23 Exam.runtimeconfig.json
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\bin\Debug\net6.0\Personal Work PMI23 Exam.dll
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\bin\Debug\net6.0\Personal Work PMI23 Exam.pdb
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.AssemblyInfo.cs
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.dll
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\refint\Personal Work PMI23 Exam.dll
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.pdb
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\Personal Work PMI23 Exam.genruntimeconfig.cache
+D:\Programming\C#\Univer\Templates\PMI23 Exam\PMI23 Exam\obj\Debug\net6.0\ref\Personal Work PMI23 Exam.dll

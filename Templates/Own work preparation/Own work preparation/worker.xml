@@ -1,0 +1,31 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Workers>
+	<Worker>
+		<WorkerId>1</WorkerId>
+		<Name>WorkerName1</Name>
+		<Surname>WorkerSurname1</Surname>
+		<PosadaId>1</PosadaId>
+		<Pidrozdil>Pidrozdil1</Pidrozdil>
+	</Worker>
+	<Worker>
+		<WorkerId>2</WorkerId>
+		<Name>WorkerName2</Name>
+		<Surname>WorkerSurname2</Surname>
+		<PosadaId>2</PosadaId>
+		<Pidrozdil>Pidrozdil3</Pidrozdil>
+	</Worker>
+	<Worker>
+		<WorkerId>3</WorkerId>
+		<Name>WorkerName3</Name>
+		<Surname>WorkerSurname3</Surname>
+		<PosadaId>3</PosadaId>
+		<Pidrozdil>Pidrozdil3</Pidrozdil>
+	</Worker>
+	<Worker>
+		<WorkerId>4</WorkerId>
+		<Name>WorkerName4</Name>
+		<Surname>WorkerSurname4</Surname>
+		<PosadaId>2</PosadaId>
+		<Pidrozdil>Pidrozdil4</Pidrozdil>
+	</Worker>
+</Workers>

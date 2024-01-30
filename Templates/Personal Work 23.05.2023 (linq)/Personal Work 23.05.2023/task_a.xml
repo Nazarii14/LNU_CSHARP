@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Project>
+    <ProjectName>ProjectName1</ProjectName>
+    <Worker>
+      <Name>WorkerName2</Name>
+      <Surname>WorkerSurname2</Surname>
+      <WorkedHours>7</WorkedHours>
+    </Worker>
+    <Worker>
+      <Name>WorkerName2</Name>
+      <Surname>WorkerSurname2</Surname>
+      <WorkedHours>10</WorkedHours>
+    </Worker>
+  </Project>
+  <Project>
+    <ProjectName>ProjectName2</ProjectName>
+    <Worker>
+      <Name>WorkerName1</Name>
+      <Surname>WorkerSurname1</Surname>
+      <WorkedHours>2</WorkedHours>
+    </Worker>
+    <Worker>
+      <Name>WorkerName1</Name>
+      <Surname>WorkerSurname1</Surname>
+      <WorkedHours>6</WorkedHours>
+    </Worker>
+    <Worker>
+      <Name>WorkerName2</Name>
+      <Surname>WorkerSurname2</Surname>
+      <WorkedHours>10</WorkedHours>
+    </Worker>
+  </Project>
+</TaskA>

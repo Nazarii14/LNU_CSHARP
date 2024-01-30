@@ -1,0 +1,69 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Results>
+	<Result>
+		<TskId>1</TskId>
+		<StudId>1</StudId>
+		<Mark>20</Mark>
+		<ReviewDate>2023-04-24</ReviewDate>
+	</Result>
+
+	<Result>
+		<TskId>2</TskId>
+		<StudId>1</StudId>
+		<Mark>10</Mark>
+		<ReviewDate>2023-03-24</ReviewDate>
+	</Result>
+
+	<Result>
+		<TskId>3</TskId>
+		<StudId>1</StudId>
+		<Mark>10</Mark>
+		<ReviewDate>2022-10-24</ReviewDate>
+	</Result>
+
+	
+	<Result>
+		<TskId>1</TskId>
+		<StudId>2</StudId>
+		<Mark>20</Mark>
+		<ReviewDate>2023-03-26</ReviewDate>
+	</Result>
+
+	<Result>
+		<TskId>2</TskId>
+		<StudId>2</StudId>
+		<Mark>10</Mark>
+		<ReviewDate>2023-03-24</ReviewDate>
+	</Result>
+
+	<Result>
+		<TskId>3</TskId>
+		<StudId>2</StudId>
+		<Mark>10</Mark>
+		<ReviewDate>2022-10-22</ReviewDate>
+	</Result>
+
+	
+	
+	<Result>
+		<TskId>1</TskId>
+		<StudId>3</StudId>
+		<Mark>20</Mark>
+		<ReviewDate>2023-03-27</ReviewDate>
+	</Result>
+
+	<Result>
+		<TskId>2</TskId>
+		<StudId>3</StudId>
+		<Mark>10</Mark>
+		<ReviewDate>2023-02-24</ReviewDate>
+	</Result>
+
+	<Result>
+		<TskId>3</TskId>
+		<StudId>3</StudId>
+		<Mark>10</Mark>
+		<ReviewDate>2022-10-28</ReviewDate>
+	</Result>
+
+</Results>

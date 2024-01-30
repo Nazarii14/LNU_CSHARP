@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<disciplineResults>
+	<disciplineResult>
+		<disciplineName>Math</disciplineName>
+		<teacherId>10</teacherId>
+		<studentScores>
+			<score>
+				<studentTicketNumber>1</studentTicketNumber>
+				<scoreValue>90</scoreValue>
+			</score>
+			<score>
+				<studentTicketNumber>2</studentTicketNumber>
+				<scoreValue>85</scoreValue>
+			</score>
+		</studentScores>
+	</disciplineResult>
+	<disciplineResult>
+		<disciplineName>Prog</disciplineName>
+		<teacherId>11</teacherId>
+		<studentScores>
+			<score>
+				<studentTicketNumber>1</studentTicketNumber>
+				<scoreValue>97</scoreValue>
+			</score>
+			<score>
+				<studentTicketNumber>2</studentTicketNumber>
+				<scoreValue>95</scoreValue>
+			</score>
+			<score>
+				<studentTicketNumber>3</studentTicketNumber>
+				<scoreValue>49</scoreValue>
+			</score>
+		</studentScores>
+	</disciplineResult>
+</disciplineResults>

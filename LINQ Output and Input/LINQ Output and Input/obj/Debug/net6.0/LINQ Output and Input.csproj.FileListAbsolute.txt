@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.AssemblyInfo.cs
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\bin\Debug\net6.0\LINQ Output and Input.exe
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\bin\Debug\net6.0\LINQ Output and Input.deps.json
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\bin\Debug\net6.0\LINQ Output and Input.runtimeconfig.json
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\bin\Debug\net6.0\LINQ Output and Input.dll
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\bin\Debug\net6.0\LINQ Output and Input.pdb
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.dll
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\refint\LINQ Output and Input.dll
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.pdb
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\LINQ Output and Input.genruntimeconfig.cache
+D:\Programming\C#\Univer\LINQ Output and Input\LINQ Output and Input\obj\Debug\net6.0\ref\LINQ Output and Input.dll

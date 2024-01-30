@@ -1,0 +1,18 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Operations>
+	<Operation>
+		<OpId>1456</OpId>
+		<Name>OperName1</Name>
+		<Price>100</Price>
+	</Operation>
+	<Operation>
+		<OpId>1656</OpId>
+		<Name>OperName1</Name>
+		<Price>1200</Price>
+	</Operation>
+	<Operation>
+		<OpId>7896</OpId>
+		<Name>OperName2</Name>
+		<Price>1000</Price>
+	</Operation>
+</Operations>

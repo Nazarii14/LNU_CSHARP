@@ -1,0 +1,59 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Cars>
+	<Car>
+		<Date>2022-10-12 12:00</Date>
+		<Number>1</Number>
+		<CarCat>Lehkova</CarCat>
+		<Speed>51</Speed>
+	</Car>
+
+	<Car>
+		<Date>2022-10-12 13:00</Date>
+		<Number>2</Number>
+		<CarCat>Bus</CarCat>
+		<Speed>20</Speed>
+	</Car>
+	
+	<Car>
+		<Date>2022-10-12 12:10</Date>
+		<Number>3</Number>
+		<CarCat>Vantazh</CarCat>
+		<Speed>200</Speed>
+	</Car>
+
+	<Car>
+		<Date>2022-10-12 13:05</Date>
+		<Number>4</Number>
+		<CarCat>Vantazh</CarCat>
+		<Speed>45</Speed>
+	</Car>
+
+	<Car>
+		<Date>2022-10-13 13:05</Date>
+		<Number>1</Number>
+		<CarCat>Lehkova</CarCat>
+		<Speed>55</Speed>
+	</Car>
+
+	<Car>
+		<Date>2022-10-13 13:10</Date>
+		<Number>2</Number>
+		<CarCat>Bus</CarCat>
+		<Speed>40</Speed>
+	</Car>
+	
+	<Car>
+		<Date>2022-10-13 12:15</Date>
+		<Number>3</Number>
+		<CarCat>Vantazh</CarCat>
+		<Speed>135</Speed>
+	</Car>
+
+	<Car>
+		<Date>2022-10-12 13:05</Date>
+		<Number>4</Number>
+		<CarCat>Vantazh</CarCat>
+		<Speed>45</Speed>
+	</Car>
+
+</Cars>

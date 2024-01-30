@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Vydavnytstvas>
+	<Vydavnytstvo>
+		<VydavnytstvoId>1</VydavnytstvoId>
+		<VydavnytstvoName>VydavnytstvoName1</VydavnytstvoName>
+	</Vydavnytstvo>
+	<Vydavnytstvo>
+		<VydavnytstvoId>2</VydavnytstvoId>
+		<VydavnytstvoName>VydavnytstvoName2</VydavnytstvoName>
+	</Vydavnytstvo>
+</Vydavnytstvas>

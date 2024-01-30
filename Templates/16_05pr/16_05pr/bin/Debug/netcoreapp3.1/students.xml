@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student>
+		<studentTicketNumber>1</studentTicketNumber>
+		<lastName>Masnyk</lastName>
+		<firstName>Anastasiya</firstName>
+		<groupName>Group21</groupName>
+	</student>
+
+	<student>
+		<studentTicketNumber>2</studentTicketNumber>
+		<lastName>Shevchenko</lastName>
+		<firstName>Taras</firstName>
+		<groupName>Group21</groupName>
+	</student>
+	<student>
+		<studentTicketNumber>3</studentTicketNumber>
+		<lastName>Franko</lastName>
+		<firstName>Ivan</firstName>
+		<groupName>Group23</groupName>
+	</student>
+</students>

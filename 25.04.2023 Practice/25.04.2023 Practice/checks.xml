@@ -1,0 +1,38 @@
+﻿<?xml version ="1.0" encoding="utf-8"?>
+<Checks>
+	<Check>
+		<Date>2023-04-25</Date>
+		<IdPat>1</IdPat>
+		<IdFav>1</IdFav>
+	</Check>
+
+	<Check>
+		<Date>2023-04-25</Date>
+		<IdPat>2</IdPat>
+		<IdFav>1</IdFav>
+	</Check>
+
+	<Check>
+		<Date>2023-04-25</Date>
+		<IdPat>3</IdPat>
+		<IdFav>1</IdFav>
+	</Check>
+
+	<Check>
+		<Date>2023-04-25</Date>
+		<IdPat>1</IdPat>
+		<IdFav>2</IdFav>
+	</Check>
+
+	<Check>
+		<Date>2023-04-24</Date>
+		<IdPat>2</IdPat>
+		<IdFav>2</IdFav>
+	</Check>
+
+	<Check>
+		<Date>2023-04-24</Date>
+		<IdPat>2</IdPat>
+		<IdFav>2</IdFav>
+	</Check>
+</Checks>

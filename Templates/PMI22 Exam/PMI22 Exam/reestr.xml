@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Reestrs>
+	<Reestr>
+		<TestId>1</TestId>
+		<Date>2023-05-13 15:00:00</Date>
+		<ServerId>AAA</ServerId>
+		<Result>NOT CORRECT</Result>
+	</Reestr>
+	<Reestr>
+		<TestId>2</TestId>
+		<Date>2023-05-13 15:00:00</Date>
+		<ServerId>BBB</ServerId>
+		<Result>CORRECT</Result>
+	</Reestr>
+	<Reestr>
+		<TestId>3</TestId>
+		<Date>2023-05-13 15:00:00</Date>
+		<ServerId>CCC</ServerId>
+		<Result>NOT CORRECT</Result>
+	</Reestr>
+	<Reestr>
+		<TestId>5</TestId>
+		<Date>2023-05-13 15:00:00</Date>
+		<ServerId>BBB</ServerId>
+		<Result>NOT CORRECT</Result>
+	</Reestr>
+	<Reestr>
+		<TestId>4</TestId>
+		<Date>2023-05-13 15:00:00</Date>
+		<ServerId>AAA</ServerId>
+		<Result>CORRECT</Result>
+	</Reestr>
+</Reestrs>

@@ -1,0 +1,17 @@
+Id: 1 Mark: CompLenovo Price: 18999 HasOs: True
+Id: 2 Mark: CompAsus Price: 20999 HasOs: True
+Id: 3 Mark: CompLenovo Price: 20999 HasOs: False
+Id: 4 Mark: CompApple Price: 50999 HasOs: False
+Id: 5 Mark: CompHP Price: 64999 HasOs: True
+Id: 6 Mark: CompROG Price: 121999 HasOs: False
+Id: 0 Name:  Price: 0
+Id: 1 Name: Linux Price: 100
+Id: 2 Name: Windows Price: 120
+Id: 3 Name: masos Price: 150
+Date: 23.12.2022 0:00:00 CompId: 1 OsId: 1 Sold: 15
+Date: 03.01.2023 0:00:00 CompId: 2 OsId: 2 Sold: 51
+Date: 04.01.2023 0:00:00 CompId: 1 OsId: 2 Sold: 5
+Date: 04.01.2023 0:00:00 CompId: 1 OsId: 3 Sold: 1
+Date: 05.01.2023 0:00:00 CompId: 1 OsId: 1 Sold: 15
+Date: 12.01.2023 0:00:00 CompId: 5 OsId: 3 Sold: 1
+Date: 23.12.2022 0:00:00 CompId: 1 OsId: 1 Sold: 15

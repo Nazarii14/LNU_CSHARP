@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Project>
+    <ProjectName>{ ProjName = ProjectName1 }</ProjectName>
+    <Worker>
+      <Name>WorkerName2</Name>
+      <Surname>WorkerSurname2</Surname>
+      <Hours>7</Hours>
+      <TotalPrice>84</TotalPrice>
+    </Worker>
+    <Worker>
+      <Name>WorkerName2</Name>
+      <Surname>WorkerSurname2</Surname>
+      <Hours>10</Hours>
+      <TotalPrice>120</TotalPrice>
+    </Worker>
+  </Project>
+  <Project>
+    <ProjectName>{ ProjName = ProjectName2 }</ProjectName>
+    <Worker>
+      <Name>WorkerName1</Name>
+      <Surname>WorkerSurname1</Surname>
+      <Hours>2</Hours>
+      <TotalPrice>30</TotalPrice>
+    </Worker>
+    <Worker>
+      <Name>WorkerName1</Name>
+      <Surname>WorkerSurname1</Surname>
+      <Hours>6</Hours>
+      <TotalPrice>90</TotalPrice>
+    </Worker>
+    <Worker>
+      <Name>WorkerName2</Name>
+      <Surname>WorkerSurname2</Surname>
+      <Hours>10</Hours>
+      <TotalPrice>120</TotalPrice>
+    </Worker>
+  </Project>
+</TaskB>

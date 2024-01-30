@@ -1,0 +1,15 @@
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.csproj.AssemblyReference.cache
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfoInputs.cache
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfo.cs
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.exe
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.deps.json
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.runtimeconfig.json
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.dll
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\bin\Debug\net6.0\Vehicle.pdb
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.dll
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\refint\Vehicle.dll
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.pdb
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\Vehicle.genruntimeconfig.cache
+D:\Programming\C#\Univer\pdf третій семестр\Vehicle\Vehicle\obj\Debug\net6.0\ref\Vehicle.dll

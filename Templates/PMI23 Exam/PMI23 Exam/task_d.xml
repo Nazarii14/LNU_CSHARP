@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskD>
+  <Category Category="A">
+    <Questions>
+      <Question>Question1</Question>
+      <Mark>10</Mark>
+    </Questions>
+  </Category>
+  <Category Category="B">
+    <Questions>
+      <Question>Question2</Question>
+      <Mark>15</Mark>
+    </Questions>
+  </Category>
+  <Category Category="C">
+    <Questions>
+      <Question>Question3</Question>
+      <Mark>15</Mark>
+    </Questions>
+  </Category>
+  <Category Category="DC">
+    <Questions>
+      <Question>Question4</Question>
+      <Mark>20</Mark>
+    </Questions>
+  </Category>
+</TaskD>

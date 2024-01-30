@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tests>
+	<Test>
+		<TestId>1</TestId>
+		<Login>vlogin1</Login>
+		<Language>C#</Language>
+		<CodeSize>5024</CodeSize>
+	</Test>
+	<Test>
+		<TestId>2</TestId>
+		<Login>vlogin2</Login>
+		<Language>Java</Language>
+		<CodeSize>2024</CodeSize>
+	</Test>
+	<Test>
+		<TestId>5</TestId>
+		<Login>vlogin2</Login>
+		<Language>Java</Language>
+		<CodeSize>2024</CodeSize>
+	</Test>
+	<Test>
+		<TestId>3</TestId>
+		<Login>vlogin3</Login>
+		<Language>Java</Language>
+		<CodeSize>2024</CodeSize>
+	</Test>
+	<Test>
+		<TestId>4</TestId>
+		<Login>vlogin4</Login>
+		<Language>Python</Language>
+		<CodeSize>1024</CodeSize>
+	</Test>
+</Tests>
+

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Checks>
+	<Check>
+		<CategoryID>123456</CategoryID>
+		<ReleaseDate>2022.05.05</ReleaseDate>
+		<OperDate>2022.10.10</OperDate>
+		<OperID>1456</OperID>
+	</Check>
+	<Check>
+		<CategoryID>123456</CategoryID>
+		<ReleaseDate>2022.05.05</ReleaseDate>
+		<OperDate>2022.10.10</OperDate>
+		<OperID>7896</OperID>
+	</Check>
+	<Check>
+		<CategoryID>123456</CategoryID>
+		<ReleaseDate>2022.05.05</ReleaseDate>
+		<OperDate>2023.12.20</OperDate>
+		<OperID>7896</OperID>
+	</Check>
+	<Check>
+		<CategoryID>456985</CategoryID>
+		<ReleaseDate>2022.01.01</ReleaseDate>
+		<OperDate>2024.10.10</OperDate>
+		<OperID>1456</OperID>
+	</Check>
+	<Check>
+		<CategoryID>456985</CategoryID>
+		<ReleaseDate>2021.06.07</ReleaseDate>
+		<OperDate>2023.09.11</OperDate>
+		<OperID>7896</OperID>
+	</Check>
+	<Check>
+		<CategoryID>555555</CategoryID>
+		<ReleaseDate>2020.05.05</ReleaseDate>
+		<OperDate>2022.10.10</OperDate>
+		<OperID>1456</OperID>
+	</Check>
+	<Check>
+		<CategoryID>555555</CategoryID>
+		<ReleaseDate>2021.01.02</ReleaseDate>
+		<OperDate>2022.02.05</OperDate>
+		<OperID>7896</OperID>
+	</Check>
+</Checks>

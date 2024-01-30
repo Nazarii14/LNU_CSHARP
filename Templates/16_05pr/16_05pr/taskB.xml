@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<results>
+  <groupResult>
+    <groupName>Group21</groupName>
+    <studentResults>
+      <result>
+        <studentName>Masnyk Anastasiya</studentName>
+        <disciplineName>Math</disciplineName>
+        <scoreValue>90</scoreValue>
+      </result>
+      <result>
+        <studentName>Masnyk Anastasiya</studentName>
+        <disciplineName>Prog</disciplineName>
+        <scoreValue>97</scoreValue>
+      </result>
+      <result>
+        <studentName>Shevchenko Taras</studentName>
+        <disciplineName>Math</disciplineName>
+        <scoreValue>85</scoreValue>
+      </result>
+      <result>
+        <studentName>Shevchenko Taras</studentName>
+        <disciplineName>Prog</disciplineName>
+        <scoreValue>95</scoreValue>
+      </result>
+    </studentResults>
+  </groupResult>
+  <groupResult>
+    <groupName>Group23</groupName>
+    <studentResults>
+      <result>
+        <studentName>Franko Ivan</studentName>
+        <disciplineName>Prog</disciplineName>
+        <scoreValue>49</scoreValue>
+      </result>
+    </studentResults>
+  </groupResult>
+</results>

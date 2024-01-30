@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <TaskC PlatformName="UA-testing">
+    <Result>6048</Result>
+  </TaskC>
+  <TaskC PlatformName="USA-testing">
+    <Result>4048</Result>
+  </TaskC>
+  <TaskC PlatformName="UK-testing">
+    <Result>2024</Result>
+  </TaskC>
+</TaskC>
